@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "doMPI"]
 	path = doMPI
 	url = https://github.com/cran/doMPI
-	shallow = true
-	registered = true
 [submodule "itertools"]
 	path = itertools
 	url = https://github.com/cran/itertools
-	shallow = true
-	registered = true
